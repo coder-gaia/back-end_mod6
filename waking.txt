@@ -1,0 +1,36 @@
+1 - Despertador toca.
+2 - Abro meus olhos.
+3 - Me levanto.
+4 - Faço minha cama.
+5 - Após fazer minha cama, vou ao banheiro.
+6 - O banheiro está ocupado? Sim
+    1 - Eu espero ficar livre.
+7 - O banheiro está ocupado? Não
+    1 - Eu abro a porta do banheiro girando sua maçaneta.
+8 - Entro no banheiro.
+9 - Faço minhas necessidades na privada.
+10 - Puxo a descarga.
+10 - Após isso, lavo meu rosto e escovo meus dentes.
+11 - Seco meu rosto.
+12 - Saio do banheiro.
+13 - Vou para a cozinha.
+14 - Abro a geladeira.
+15 - Há manteiga? Sim.
+    1 - Pego a manteiga.
+16 - Há manteiga? Não.
+    1 - Eu fecho a geladeira.
+17 - Vou ao armario e pego a embalagem de pães.
+18 - Há pães? Sim.
+    1 - Pego os pães.
+19 - Há pães? Não.
+    1 - Vou em direção a porta.
+    2 - Saio de casa para comprar pães.
+20 - Coloco os pães em cima da mesa.
+21 - Vou em direção a copa.
+22 - Pego uma faca.
+23 - Pego uma espatula.
+24 - Retorno a mesa.
+25 - Corto o pão ao meio.
+25 - Pego a espatula e passo a manteiga nas metades do pão.
+26 - Consumo o pão.
+    

@@ -1,0 +1,6 @@
+
+Na programação orientada a objetos, o código é estruturado em torno de objetos, que são instâncias de classes.
+Cada objeto possui atributos e métodos que operam nesses dados. 
+O objetivo é fazer uma mimica de entidades do mundo real de forma mais próxima, organizando o código em unidades autônomas e reutilizáveis.
+A Orientação a Objetos promove conceitos como encapsulamento, onde os detalhes de implementação são ocultados dentro dos objetos, e herança, onde uma classe pode herdar atributos e métodos de outra.
+Algumas linguagens como Java, Python e C++ são exemplos de linguagens que suportam programação orientada a objetos.

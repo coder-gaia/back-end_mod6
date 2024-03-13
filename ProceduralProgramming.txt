@@ -1,0 +1,6 @@
+
+Programação procedural é um paradigma de programação onde o código é estruturado em torno de funções e procedimentos. 
+Nela os programas são compostos por uma série de instruções sequenciais que são executadas uma após a outra.
+As funções podem aceitar parâmetros e retornar valores, permitindo a reutilização de código. 
+Este paradigma enfatiza a decomposição de problemas em tarefas menores e a manipulação direta dos dados. 
+Algumas linguagens de programação ainda seguem o paradigma procedural, dentre elas estão C, Pascal e Fortran.
